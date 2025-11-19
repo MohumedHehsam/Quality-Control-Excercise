@@ -1,0 +1,127 @@
+[
+  {
+    "subgroupNumber": 1,
+    "xBar": 540,
+    "rangeR": 26
+  },
+  {
+    "subgroupNumber": 2,
+    "xBar": 534,
+    "rangeR": 23
+  },
+  {
+    "subgroupNumber": 3,
+    "xBar": 545,
+    "rangeR": 24
+  },
+  {
+    "subgroupNumber": 4,
+    "xBar": 561,
+    "rangeR": 27
+  },
+  {
+    "subgroupNumber": 5,
+    "xBar": 576,
+    "rangeR": 25
+  },
+  {
+    "subgroupNumber": 6,
+    "xBar": 523,
+    "rangeR": 50
+  },
+  {
+    "subgroupNumber": 7,
+    "xBar": 571,
+    "rangeR": 29
+  },
+  {
+    "subgroupNumber": 8,
+    "xBar": 457,
+    "rangeR": 29
+  },
+  {
+    "subgroupNumber": 9,
+    "xBar": 584,
+    "rangeR": 23
+  },
+  {
+    "subgroupNumber": 10,
+    "xBar": 552,
+    "rangeR": 24
+  },
+  {
+    "subgroupNumber": 11,
+    "xBar": 541,
+    "rangeR": 28
+  },
+  {
+    "subgroupNumber": 12,
+    "xBar": 545,
+    "rangeR": 25
+  },
+  {
+    "subgroupNumber": 13,
+    "xBar": 546,
+    "rangeR": 26
+  },
+  {
+    "subgroupNumber": 14,
+    "xBar": 551,
+    "rangeR": 24
+  },
+  {
+    "subgroupNumber": 15,
+    "xBar": 522,
+    "rangeR": 29
+  },
+  {
+    "subgroupNumber": 16,
+    "xBar": 579,
+    "rangeR": 26
+  },
+  {
+    "subgroupNumber": 17,
+    "xBar": 549,
+    "rangeR": 28
+  },
+  {
+    "subgroupNumber": 18,
+    "xBar": 508,
+    "rangeR": 23
+  },
+  {
+    "subgroupNumber": 19,
+    "xBar": 569,
+    "rangeR": 22
+  },
+  {
+    "subgroupNumber": 20,
+    "xBar": 574,
+    "rangeR": 28
+  },
+  {
+    "subgroupNumber": 21,
+    "xBar": 563,
+    "rangeR": 33
+  },
+  {
+    "subgroupNumber": 22,
+    "xBar": 561,
+    "rangeR": 23
+  },
+  {
+    "subgroupNumber": 23,
+    "xBar": 548,
+    "rangeR": 25
+  },
+  {
+    "subgroupNumber": 24,
+    "xBar": 556,
+    "rangeR": 27
+  },
+  {
+    "subgroupNumber": 25,
+    "xBar": 553,
+    "rangeR": 23
+  }
+]
