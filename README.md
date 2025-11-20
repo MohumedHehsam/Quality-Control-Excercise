@@ -1,9 +1,3 @@
-That's helpful context! If you are using **ScottPlot** for your plotting, you should update the technology section of your `README.md` to reflect that specific library.
-
-Here is the revised **Core Technology Stack** section and a slight adjustment to the **Usage** section to mention ScottPlot's typical output:
-
----
-
 ## 🛠️ Core Technology Stack (Revised)
 
 * **Language:** C#
